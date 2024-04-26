@@ -14,18 +14,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+
 ### Run Locally
 
-To run *Flowers Website* locally, run this command on your git bash:
+To run **Flowers Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
-bash
+```bash
 sudo git clone https://github.com/Bassam-Serag/Flowers-Website.git
-
+```
 
 Windows:
 
-bash
+```bash
 git clone https://github.com/Bassam-Serag/Flowers-Website.git
+```
 
