@@ -20,11 +20,11 @@ To run *Flowers Website* locally, run this command on your git bash:
 Linux and macOS:
 
 bash
-sudo git clone 
+sudo git clone https://github.com/Bassam-Serag/Flowers-Website.git
 
 
 Windows:
 
 bash
-git clone 
+git clone https://github.com/Bassam-Serag/Flowers-Website.git
 
