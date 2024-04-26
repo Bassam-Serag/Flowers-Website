@@ -5,7 +5,8 @@
 
 ## [Website Demo](https://flowers-website-lac.vercel.app/)
 
-![image](...)
+![image](https://github.com/Bassam-Serag/Flowers-Website/assets/105117034/bf0f6e88-0f30-4a50-9c36-bc836d9e2b92)
+
 
 ### Prerequisites
 
